@@ -1,0 +1,15 @@
+C:\labs\IdadeDiferen-aDaiaeEu\bin\Debug\net6.0\IdadeDiferen-aDaiaeEu.exe
+C:\labs\IdadeDiferen-aDaiaeEu\bin\Debug\net6.0\IdadeDiferen-aDaiaeEu.deps.json
+C:\labs\IdadeDiferen-aDaiaeEu\bin\Debug\net6.0\IdadeDiferen-aDaiaeEu.runtimeconfig.json
+C:\labs\IdadeDiferen-aDaiaeEu\bin\Debug\net6.0\IdadeDiferen-aDaiaeEu.dll
+C:\labs\IdadeDiferen-aDaiaeEu\bin\Debug\net6.0\IdadeDiferen-aDaiaeEu.pdb
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.csproj.AssemblyReference.cache
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.AssemblyInfoInputs.cache
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.AssemblyInfo.cs
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.csproj.CoreCompileInputs.cache
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.dll
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\refint\IdadeDiferen-aDaiaeEu.dll
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.pdb
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\IdadeDiferen-aDaiaeEu.genruntimeconfig.cache
+C:\labs\IdadeDiferen-aDaiaeEu\obj\Debug\net6.0\ref\IdadeDiferen-aDaiaeEu.dll
